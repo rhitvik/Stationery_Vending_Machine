@@ -1,0 +1,55 @@
+LABCENTER PROTEUS PICK AND PLACE FILE
+=====================================
+
+Component positions for vending machine single product circuit.LYT
+
+Fields: Part ID, Value, Package, Layer, Rotation, X, Y
+Units:  Rotation - degrees, X, Y  - thou
+Notes:  The X, Y value is the centre of package as drawn in ARES.
+        The origin for these values is the Output Origin.
+        The values are a guide only and must be checked manually when
+        setting up automatic insertion equipment.
+
+"U1","ATMEGA16","DIL40",TOP,-90,-2100,-400
+"J3","66226-048","CON16_1X16_U_FCI",TOP,-90,-3131.5,400
+"R1","1k","RES40",TOP,-180,-1450,550
+"R2","1k","RES40",TOP,-180,-1450,450
+"R3","1k","RES40",TOP,-180,-1450,350
+"R4","1k","RES40",TOP,-180,-1450,250
+"R5","330","RES40",TOP,-180,-1450,150
+"J9","CONN-H6","CONN-SIL6",TOP,-270,-2850,-200
+"R11","330","RES40",TOP,180,-1450,-1250
+"R12","330","RES40",TOP,180,-1450,-1150
+"R13","330","RES40",TOP,180,-1450,-1050
+"R14","330","RES40",TOP,180,-1450,-950
+"R15","330","RES40",TOP,180,-1450,-850
+"R16","330","RES40",TOP,180,-1450,-750
+"R17","330","RES40",TOP,180,-1450,-650
+"R18","330","RES40",TOP,180,-1450,-550
+"J4","SIL-100-06","SIL-100-06",TOP,90,-975,300
+"X1","CRYSTAL","XTAL18",TOP,270,-2200,-650
+"C1","22pF","CAP10",TOP,180,-2000,-750
+"C2","22pF","CAP10",TOP,180,-2000,-550
+"U2","L293D","DIL16",TOP,180,-3400,-1100
+"J5","CONN-H2","CONN-SIL2",TOP,0,-1300,-50
+"J1","CONN-H2","CONN-SIL2",TOP,-90,-2500,-800
+"J7","CONN-H2","CONN-SIL2",TOP,-180,-3400,-800
+"J8","CONN-H2","CONN-SIL2",TOP,0,-3400,-1400
+"U3","7805","P1",TOP,0,-3800,1375
+"C5","10uF","ELEC-RAD10",TOP,0,-3850,750
+"C4","1uF","ELEC-RAD10",TOP,180,-3550,750
+"INPUT A","CONN-H2","CONN-SIL2",TOP,0,-1850,1500
+"RV1","5.0K    DESC=","TRIM_3361P",TOP,-270,-2425,1050
+"RV2","5.0K    DESC=","TRIM_3361P",TOP,90,-2425,1450
+"J2","CONN-SIL3","CONN-SIL3",TOP,0,-3700,200
+"J6","CONN-SIL3","CONN-SIL3",TOP,0,-3700,-150
+"R6","1k","RES40",TOP,90,-4000,500
+"","","SW-PUSH1",TOP,180,-1250,1400
+"R20","1k","RES40",TOP,0,-950,750
+"R21","10k","RES40",TOP,0,-950,850
+"R7","330","RES40",TOP,180,-950,950
+"C6","22pf","CAP10",TOP,90,-1700,-400
+"C7","22pf","CAP10",TOP,270,-2500,-400
+"J10","CONN-H2","LED",TOP,180,-837.5,1137.5
+"","","SIL-100-10",TOP,90,-1075,-1000
+"C3","1uF","ELEC-RAD10",TOP,180,-1400,950

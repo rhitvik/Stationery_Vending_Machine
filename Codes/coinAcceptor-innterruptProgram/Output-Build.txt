@@ -1,0 +1,21 @@
+﻿------ Build started: Project: coinAcceptor-innterruptProgram, Configuration: Debug AVR ------
+Build started.
+Project "coinAcceptor-innterruptProgram.cppproj" (default targets):
+Target "PreBuildEvent" skipped, due to false condition; ('$(PreBuildEvent)'!='') was evaluated as (''!='').
+Target "CoreBuild" in file "C:\Program Files\Atmel\Atmel Studio 6.0\Vs\Compiler.targets" from project "C:\Users\lenovo\Documents\Atmel Studio\coinAcceptor-innterruptProgram\coinAcceptor-innterruptProgram\coinAcceptor-innterruptProgram.cppproj" (target "Build" depends on it):
+	Task "RunCompilerTask"
+		C:\Program Files\Atmel\Atmel Studio 6.0\make\make.exe all 
+		make: Nothing to be done for `all'.
+	Done executing task "RunCompilerTask".
+	Task "RunOutputFileVerifyTask"
+				Program Memory Usage 	:	2270 bytes   6.9 % Full
+				Data Memory Usage 		:	243 bytes   11.9 % Full
+	Done executing task "RunOutputFileVerifyTask".
+Done building target "CoreBuild" in project "coinAcceptor-innterruptProgram.cppproj".
+Target "PostBuildEvent" skipped, due to false condition; ('$(PostBuildEvent)' != '') was evaluated as ('' != '').
+Target "Build" in file "C:\Program Files\Atmel\Atmel Studio 6.0\Vs\Avr.common.targets" from project "C:\Users\lenovo\Documents\Atmel Studio\coinAcceptor-innterruptProgram\coinAcceptor-innterruptProgram\coinAcceptor-innterruptProgram.cppproj" (entry point):
+Done building target "Build" in project "coinAcceptor-innterruptProgram.cppproj".
+Done building project "coinAcceptor-innterruptProgram.cppproj".
+
+Build succeeded.
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========

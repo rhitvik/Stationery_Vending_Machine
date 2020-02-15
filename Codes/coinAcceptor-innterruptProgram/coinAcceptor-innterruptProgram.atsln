@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "coinAcceptor-innterruptProgram", "coinAcceptor-innterruptProgram\coinAcceptor-innterruptProgram.cppproj", "{FFCE5502-5FE0-4873-9615-1E956BD90557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFCE5502-5FE0-4873-9615-1E956BD90557}.Debug|AVR.ActiveCfg = Debug|AVR
+		{FFCE5502-5FE0-4873-9615-1E956BD90557}.Debug|AVR.Build.0 = Debug|AVR
+		{FFCE5502-5FE0-4873-9615-1E956BD90557}.Release|AVR.ActiveCfg = Release|AVR
+		{FFCE5502-5FE0-4873-9615-1E956BD90557}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
