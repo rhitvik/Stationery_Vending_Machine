@@ -15,7 +15,7 @@ This was a single 8-Bit microcontroller based system that communicated with the 
 [Stationery Vending Machine](https://github.com/rhitvik/Stationery_Vending_Machine/blob/master/Codes/coinAcceptor-innterruptProgram/coinAcceptor-innterruptProgram/coinAcceptor-innterruptProgram.cpp)
 
 ## Simulation File 
-The project was developed on Proteus-7 Design Suite and the Simulation File can be found [*Here*](https://github.com/rhitvik/Stationery_Vending_Machine/tree/master/SimluationFile)
+The project was developed on Proteus-7 Design Suite and the Simulation File can be found [**Here**](https://github.com/rhitvik/Stationery_Vending_Machine/tree/master/SimluationFile)
 
 ## Schematics and PCB layout
 
