@@ -27,10 +27,10 @@ The project was developed on Proteus-7 Design Suite and the Simulation File can 
 
 ## Some additional Pictures
 
-### Fabricated PCB and Soldered Circuit
+### Soldered Circuit and Fabricated PCB
 ![](https://github.com/rhitvik/Stationery_Vending_Machine/blob/master/Images_and_Screenshots/PSX_20190105_225800.jpg)
 
-### Stationery Vending Machine (SKIT College) 
-![](https://github.com/rhitvik/Stationery_Vending_Machine/blob/master/Images_and_Screenshots/Vending_Machine_SKIT_Jaipur.jpg)
+### Stationery Vending Machine (GIT College) 
+![](https://github.com/rhitvik/Stationery_Vending_Machine/blob/master/Images_and_Screenshots/Vending_Machine_GIT_Jaipur.jpg)
 
 
